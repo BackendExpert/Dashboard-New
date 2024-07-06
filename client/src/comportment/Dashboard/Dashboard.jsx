@@ -1,8 +1,11 @@
 import React from 'react'
+import { BrowserRouter } from 'react-router-dom'
 
 const Dashboard = () => {
   return (
-    <div>Dashboard</div>
+    <BrowserRouter>
+        
+    </BrowserRouter>
   )
 }
 
